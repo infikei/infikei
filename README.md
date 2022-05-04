@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hello, I'm INFIKEI.
 
-<!--
-**infikei/infikei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* INFIKEI
+* KyungHee Univ. Applied Mathematics
+* Learning Computer Languages and Mathematics
+* Designing Theme for KakaoTalk and Android
+* Taking pictures as a hobby
 
-Here are some ideas to get you started:
+Pages
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [INFIKEI THEME BLOG](https://blog.naver.com/hckhong)
+* [INFIKEI PHOTO INSTAGRAM](https://instagram.com/infikei_photo)
+* [INFIKEI HOMEPAGE](https://infikei.github.io/)
