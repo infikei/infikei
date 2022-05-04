@@ -1,6 +1,6 @@
 # Hello, I'm INFIKEI.
 
-* INFIKEI
+* INFIKEI, ChangKi Hong
 * KyungHee Univ. Applied Mathematics
 * Learning Computer Languages and Mathematics
 * Designing Theme for KakaoTalk and Android
