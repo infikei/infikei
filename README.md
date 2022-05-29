@@ -4,7 +4,7 @@
 * Living in Korea
 * Studying at KyungHee Univ. Applied Mathematics
 * Learning Computer Languages and Mathematics
-* Designing Theme for KakaoTalk
+* Designing and Making KakaoTalk Theme
 * Taking pictures as a hobby (instagram @infikei_photo)
 
 Pages
