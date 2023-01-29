@@ -2,14 +2,15 @@
 
 * INFIKEI, ChangKi Hong
 * Living in Korea
-* Studying at KyungHee Univ. Applied Mathematics
+* KyungHee Univ. Applied Mathematics
 * Learning Computer Languages and Mathematics
-* Designing and Making KakaoTalk Theme
+* Designing and Making KakaoTalk Themes
 * Taking pictures as a hobby (instagram @infikei_photo)
 
 Pages
 ---
 
-* [INFIKEI THEME BLOG](https://blog.naver.com/hckhong)
-* [INFIKEI PHOTO INSTAGRAM](https://instagram.com/infikei_photo)
+* [BAEKJOON ONLINE JUDGE] (https://www.acmicpc.net/user/infikei)
 * [INFIKEI HOMEPAGE](https://infikei.github.io/)
+* [THEME BLOG](https://blog.naver.com/infikei7)
+* [INSTAGRAM](https://instagram.com/infikei_photo)
