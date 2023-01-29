@@ -1,6 +1,6 @@
-# Hello, I'm INFIKEI.
+# INFIKEI (인피케이)
 
-* INFIKEI, ChangKi Hong
+* ChangKi Hong
 * Living in Korea
 * KyungHee Univ. Applied Mathematics
 * Learning Computer Languages and Mathematics
@@ -10,7 +10,7 @@
 Pages
 ---
 
-* [BAEKJOON ONLINE JUDGE] (https://www.acmicpc.net/user/infikei)
-* [INFIKEI HOMEPAGE](https://infikei.github.io/)
+* [BAEKJOON ONLINE JUDGE](https://www.acmicpc.net/user/infikei)
+* [INFIKEI HOMEPAGE](https://infikei.github.io)
 * [THEME BLOG](https://blog.naver.com/infikei7)
 * [INSTAGRAM](https://instagram.com/infikei_photo)
