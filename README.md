@@ -19,10 +19,11 @@
 </div>
 
 <div align=center>
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=infikei" />
+    <a href="https://solved.ac/profile/infikei"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=infikei" /></a>
+    <a href="https://solved.ac/profile/infikei"><img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api?handle=infikei" /></a>
 </div>
 
-[![솔브드 프로필](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=infikei)](https://solved.ac/profile/infikei)
+<!-- [![솔브드 프로필](https://github-readme-solvedac.hyp3rflow.vercel.app/api?handle=infikei)](https://solved.ac/profile/infikei) -->
 
 <div align=center>
     <h3>📚 Skills & Languages 📚</h3>
