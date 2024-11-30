@@ -11,7 +11,7 @@
 - Blog for Theme : https://blog.naver.com/infikei7
 - Email : hckhong@naver.com
 - BOJ : [@infikei](https://www.acmicpc.net/user/infikei)
-- Solved.ac : [@infikei](ttps://solved.ac/profile/infikei)
+- Solved.ac : [@infikei](https://solved.ac/profile/infikei)
 - Instagram : [@infikei_photo](https://instagram.com/infikei_photo)
 
 <div align=center>
