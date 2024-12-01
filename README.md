@@ -22,9 +22,13 @@
 </div>
 
 <div align=center>
-    <!-- <a href="https://solved.ac/profile/infikei"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=infikei" /></a> -->
-    <a href="https://solved.ac/profile/infikei"><img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api?handle=infikei" /></a>
+    <a href="https://solved.ac/profile/infikei"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=infikei"/></a>
+    <a href="https://solved.ac/profile/infikei"><img src="http://mazandi.herokuapp.com/api?handle=infikei&theme=dark"/></a>
 </div>
+
+<!-- <div align=center>
+    <a href="https://solved.ac/profile/infikei"><img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api?handle=infikei"/></a>
+</div> -->
 
 <!-- [![솔브드 프로필](https://github-readme-solvedac.hyp3rflow.vercel.app/api?handle=infikei)](https://solved.ac/profile/infikei) -->
 
